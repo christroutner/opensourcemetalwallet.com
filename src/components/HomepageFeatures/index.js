@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -13,6 +14,7 @@ const FeatureList = [
         friends, and the crypto-curious.
       </>
     ),
+    link: "https://youtu.be/3qn0mmfwlBQ?si=FxV4_vQlaPek0RNK"
   },
   {
     title: 'More Videos',
@@ -23,6 +25,7 @@ const FeatureList = [
         they work.
       </>
     ),
+    link: "https://youtu.be/OuFFLmOC7F0?si=Ht9qVQ6-PZ8igIlL"
   },
   {
     title: 'Buy Metal Wallets',
@@ -32,14 +35,17 @@ const FeatureList = [
         Order your own 'paper wallets' engraved onto stainless steel business cards.
       </>
     ),
+    link: "/#"
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Link to={link}>
+          <Svg className={styles.featureSvg} role="img" />
+        </Link>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
