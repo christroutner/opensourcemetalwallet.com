@@ -16,6 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <img src="/img/metal-wallet.jpeg" style={{width: '400px'}} />
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
