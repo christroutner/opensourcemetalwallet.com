@@ -2,46 +2,33 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+A 'paper wallet' is a catch-all term for any physical object with a key pair (private key and public payment address) showing on it. The most obvious paper wallets are ones you can print onto paper, like [this one](https://paperwallet.fullstack.cash/). But often plastic and metal are used for their durable qualities. This website provides information centered around engraving 'paper wallets' onto plastic and metal with widely available laser engravers.
 
-## Getting Started
+## Advantages of Paper Wallets
 
-Get started by **creating a new site**.
+- Paper wallets are valuable because they turn cryptocurrency into a physical object. Humans are very intuitive and very good at protecting physical object.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- They make great gifts and an easy way to onboard the crypto-curious. The receiver does not need any knowledge, an app, or even electricity. You just give it to them like you'd hand them a business card. They are free to explore more about cryptocurrency on their own time and terms, but now they have a little skin in the game.
 
-### What you'll need
+## Disadvantages of Paper Wallets
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Anyone who obtains a picture of your private key can take your cryptocurrency.
 
-## Generate a new site
+- If you did not make the paper wallet yourself, you are trusting someone to do that for you. They may be able to take your cryptocurrency.
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+Want to know more? Check out this video:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+<iframe width="500" height="282" src="https://www.youtube.com/embed/OuFFLmOC7F0?start=370" title="Mastering Bitcoin Cash - Part 2 - Keys, Addresses, and Wallets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Recovering Cryptocurrency from a Paper Wallet
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+The act of moving cryptocurrency from a paper wallet is called 'sweeping'. You'll need to use a wallet that is specific to the cryptocurrency you are using:
 
-## Start your site
+- For Bitcoin Cash (BCH), you can use [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash) or [Electron Cash](https://electroncash.org/). [This video](https://youtu.be/QW9xixHaEJE) shows how to use [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash).
 
-Run the development server:
+- For Bitcoin (BTC), you can use [Edge Wallet](https://edge.app/).
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- For Ethereum (ETH), you can use [Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to import the private key to the wallet.
