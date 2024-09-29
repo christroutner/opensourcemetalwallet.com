@@ -20,4 +20,8 @@ If you choose to engrave on plastic, be sure to do it outside or in a well venti
 
 ## Acrylic Signs
 
-Another option for business signage is these [two-color acrylic sheets](https://amzn.to/47IJRGG). They do not produce the fumes that PVC does, and they are UV stable. These make great signs for businesses that want to accept BCH. 
+Another option for business signage is these [two-color acrylic sheets](https://amzn.to/47IJRGG). They do not produce the fumes that PVC does, and they are UV stable. These make great signs for businesses that want to accept BCH.
+
+The sign pictured here has been outside, in the sun for over two years. It is still easy to scan the QR code with a phone.
+
+![Acrylic Sign](./static/img/acrylic-sign.jpg)

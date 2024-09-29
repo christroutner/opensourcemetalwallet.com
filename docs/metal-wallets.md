@@ -33,3 +33,9 @@ The artwork for generating these metal wallets [is available on GitHub](https://
 - [Sculpfun S30 Pro](https://amzn.to/3BvKes0)
 - [Stainless Steel business cards](https://amzn.to/3BmLu0I)
 - [Artwork generation software](https://github.com/christroutner/plastic-wallet)
+
+## More Pictures
+
+![Engraver In Action](./static/img/laser-in-action.jpg)
+
+![Engraved Wallets](./static/img/engraved-wallets.jpg)
