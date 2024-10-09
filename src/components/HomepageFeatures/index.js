@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Learn More',
+    title: 'Plastic Wallets',
     Svg: require('@site/static/img/plastic-wallet-thubnail.svg').default,
     description: (
       <>
@@ -17,15 +17,15 @@ const FeatureList = [
     link: "https://youtu.be/3qn0mmfwlBQ?si=FxV4_vQlaPek0RNK"
   },
   {
-    title: 'More Videos',
-    Svg: require('@site/static/img/yt_logo_rgb_light.svg').default,
+    title: 'Learn More!',
+    Svg: require('@site/static/img/laser-enrgraver.svg').default,
     description: (
       <>
-        Learn about the advantages and shortcomings of paper wallets, and how
-        they work.
+        Learn about paper wallets, the shortcomings and advantages, and how to
+        make your own with a desktop printer or a laser engraver.
       </>
     ),
-    link: "https://youtu.be/OuFFLmOC7F0?si=Ht9qVQ6-PZ8igIlL"
+    link: "/docs/intro"
   },
   {
     title: 'Buy Metal Wallets',
@@ -35,7 +35,7 @@ const FeatureList = [
         Order your own 'paper wallets' engraved onto stainless steel business cards.
       </>
     ),
-    link: "/#"
+    link: "https://store.opensourcemetalwallet.com"
   },
 ];
 
