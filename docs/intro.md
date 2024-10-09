@@ -18,6 +18,7 @@ A 'paper wallet' is a catch-all term for any physical object with a key pair (pr
 
 - If you did not make the paper wallet yourself, you are trusting someone to do that for you. They may be able to take your cryptocurrency.
 
+**For the reasons above, it is never appropriate to store large amounts of cryptocurrency on a paper wallet that you did not generate yourself.**
 
 Want to know more? Check out this video:
 
