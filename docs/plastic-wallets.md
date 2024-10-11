@@ -9,8 +9,15 @@ The original inspiration for this site was based on the video below. It introduc
 <iframe width="500" height="282" src="https://www.youtube.com/embed/3qn0mmfwlBQ" title="Laser Engraved Plastic BCH Wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - The source code for generating the artwork is [available on GitHub](https://github.com/christroutner/plastic-wallet).
-- The laser engraver used in the video is not available, but [this is a similar one](https://amzn.to/3Y2rgly).
+- The laser engraver used in the video is no longer available, but [this is a similar one](https://amzn.to/3Y2rgly).
 - [These are the business cards used.](https://amzn.to/3bV3cHj)
+
+The best settings for engraving the cards:
+
+1. Power at 35%
+2. Depth at 45%
+
+Also, the cards are glossy. Sand them down with 80 grit sandpaper before engraving them. This preparation step is critical. They will not engrave properly unless you remove the gloss.
 
 ## PVC Fumes
 
