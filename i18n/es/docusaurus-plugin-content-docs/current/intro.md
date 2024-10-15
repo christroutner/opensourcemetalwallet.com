@@ -12,14 +12,14 @@ Una "cartera de papel" es un término general para cualquier objeto físico que 
 
 - Son un excelente regalo y una manera sencilla de atraer a los criptocuriosos. El receptor no necesita ningún conocimiento, una aplicación o incluso electricidad. Simplemente se lo entregas como si fuera una tarjeta de visita. Tienes libertad para explorar más sobre las criptomonedas cuando lo desees y en los términos que consideres oportunos, pero ahora tienes algo en juego.
 
-## Disadvantages of Paper Wallets
+## Desventajas de las billeteras de papel
 
-- Anyone who obtains a picture of your private key can take your cryptocurrency.
+- Cualquiera que obtenga una imagen de tu clave privada podrá tomar tu criptomoneda.
 
-- If you did not make the paper wallet yourself, you are trusting someone to do that for you. They may be able to take your cryptocurrency.
+- Si no creaste tú mismo la billetera de papel, estás confiando en que alguien lo haga por ti. Es posible que esa persona pueda recibir tu criptomoneda.
 
-**For the reasons above, it is never appropriate to store large amounts of cryptocurrency on a paper wallet that you did not generate yourself.**
+**Por las razones expuestas anteriormente, nunca es apropiado almacenar grandes cantidades de criptomonedas en una billetera de papel que no haya generado usted mismo.**
 
-Want to know more? Check out this video:
+¿Quieres saber más? Mira este vídeo:
 
 <iframe width="500" height="282" src="https://www.youtube.com/embed/OuFFLmOC7F0?start=370" title="Mastering Bitcoin Cash - Part 2 - Keys, Addresses, and Wallets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

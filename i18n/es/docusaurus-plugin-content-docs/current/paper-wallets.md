@@ -2,8 +2,8 @@
 sidebar_position: 3
 ---
 
-# Paper Wallets
+# Carteras de papel
 
-Traditionally, 'paper wallets' are printed on paper using a desktop printer. You can conveniently generate and print as many paper wallets as you'd like using [this paper wallet app](https://paperwallet.fullstack.cash/).
+Tradicionalmente, las "carteras de papel" se imprimen en papel con una impresora de escritorio. Puedes generar e imprimir cómodamente tantas carteras de papel como quieras con [esta aplicación de carteras de papel](https://paperwallet.fullstack.cash/).
 
-While a web app is convenient, it is much more secure to generate your paper wallets from your own computer, and not trust the developers of web apps. [You can download the source code for the above web app here](https://github.com/Permissionless-Software-Foundation/paper-wallet), and run the same software on your own computer. If you are a JavaScript developer, you can inspect the code and learn how it works.
+Si bien una aplicación web es conveniente, es mucho más seguro generar sus billeteras de papel desde su propia computadora y no confiar en los desarrolladores de aplicaciones web. [Puede descargar el código fuente de la aplicación web anterior aquí](https://github.com/Permissionless-Software-Foundation/paper-wallet), y ejecute el mismo software en su propia computadora. Si eres un desarrollador de JavaScript, puedes inspeccionar el código y aprender cómo funciona.

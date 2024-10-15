@@ -2,33 +2,33 @@
 sidebar_position: 4
 ---
 
-# Plastic Wallets
+# Carteras de plástico
 
-The original inspiration for this site was based on the video below. It introduces the idea of using a 3-watt, toy laser engraver to engrave a 'paper' wallet onto a PVC plastic business card.
+La inspiración original para este sitio se basó en el video que aparece a continuación. Presenta la idea de usar un grabador láser de juguete de 3 vatios para grabar una billetera de "papel" en una tarjeta de presentación de plástico PVC.
 
 <iframe width="500" height="282" src="https://www.youtube.com/embed/3qn0mmfwlBQ" title="Laser Engraved Plastic BCH Wallet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- The source code for generating the artwork is [available on GitHub](https://github.com/christroutner/plastic-wallet).
-- The laser engraver used in the video is no longer available, but [this is a similar one](https://amzn.to/3Y2rgly).
-- [These are the business cards used.](https://amzn.to/3bV3cHj)
+- El código fuente para generar la obra de arte está [disponible en GitHub](https://github.com/christroutner/plastic-wallet).
+- El grabador láser utilizado en el vídeo ya no está disponible, pero [este es uno similar](https://amzn.to/3Y2rgly).
+- [Estas son las tarjetas de presentación utilizadas.](https://amzn.to/3bV3cHj)
 
-The best settings for engraving the cards:
+Las mejores configuraciones para grabar las tarjetas:
 
-1. Power at 35%
-2. Depth at 45%
+1. Fuerza a 35%
+2. Profundidad at 45%
 
-Also, the cards are glossy. Sand them down with 80 grit sandpaper before engraving them. This preparation step is critical. They will not engrave properly unless you remove the gloss.
+Además, las tarjetas son brillantes. Lijalas con papel de lija de grano 80 antes de grabarlas. Este paso de preparación es fundamental. No se grabarán correctamente a menos que elimines el brillo.
 
-## PVC Fumes
+## Humos de PVC
 
-While the PVC plastic cards engrave well, and the plastic is super durable, it can be dangerous to laser-engrave PVC. It generates chlorine gas which is stinky, toxic, and highly corrosive. After engraving about a hundred plastic wallets, the electronics on the laser engraver has oxidized badly.
+Si bien las tarjetas de plástico de PVC se graban bien y el plástico es muy duradero, puede ser peligroso grabar PVC con láser, ya que genera gas de cloro, que es maloliente, tóxico y altamente corrosivo. Después de grabar alrededor de cien billeteras de plástico, los componentes electrónicos del grabador láser se oxidaron gravemente.
 
-If you choose to engrave on plastic, be sure to do it outside or in a well ventilated area.
+Si decide grabar en plástico, asegúrese de hacerlo al aire libre o en un área bien ventilada.
 
-## Acrylic Signs
+## Letreros acrílicos
 
-Another option for business signage is these [two-color acrylic sheets](https://amzn.to/47IJRGG). They do not produce the fumes that PVC does, and they are UV stable. These make great signs for businesses that want to accept BCH.
+Otra opción para la señalización comercial son estas [láminas acrílicas de dos colores](https://amzn.to/47IJRGG). No producen los vapores que produce el PVC y son resistentes a los rayos UV. Son excelentes carteles para empresas que desean aceptar BCH.
 
-The sign pictured here has been outside, in the sun for over two years. It is still easy to scan the QR code with a phone.
+El cartel que aparece en la imagen lleva más de dos años en el exterior, expuesto al sol. Aún es fácil escanear el código QR con un teléfono.
 
 ![Acrylic Sign](./static/img/acrylic-sign.jpg)

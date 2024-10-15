@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {

@@ -2,19 +2,19 @@
 sidebar_position: 2
 ---
 
-# Recover Funds
+# Recuperar fondos
 
-Cryptocurrency on a paper wallet is not directly spendable. You need to first recover the funds by transferring the cryptocurrency into a wallet app. The act of recovering funds is called 'Sweeping'.
+Las criptomonedas en una billetera de papel no se pueden gastar directamente. Primero debes recuperar los fondos transfiriéndolas a una aplicación de billetera. El acto de recuperar fondos se denomina "barrido".
 
 ## Bitcoin Cash (BCH)
 
-You can use these wallets to sweep BCH from a paper wallet:
+Puedes usar estas billeteras para barrer BCH desde una billetera de papel:
 
-- [Bitcoin.com Wallet](https://wallet.bitcoin.com/) is probably the easiest wallet to use. It is available for both Android and iPhone. Click the QR-code icon in the upper-right corner to scan the QR code representing the private key.
+- [Bitcoin.com Wallet](https://wallet.bitcoin.com/) es probablemente la billetera más fácil de usar. Está disponible tanto para Android como para iPhone. Haga clic en el ícono del código QR en la esquina superior derecha para escanear el código QR que representa la clave privada.
 
-- [Wallet.FullStack.cash](https://bchn-wallet.fullstack.cash) is a convenient web wallet. [This video](https://youtu.be/QW9xixHaEJE) shows how to use [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash). You will need to scan the QR code representing the private key with a QR scanner app, then paste the private key information into the the *Sweep* view of the web app.
+- [Wallet.FullStack.cash](https://bchn-wallet.fullstack.cash) es una aplicación de billetera web conveniente. [Este video](https://youtu.be/QW9xixHaEJE) muestra cómo usar los fondos de barrido con una billetera de papel con la aplicación. Necesitará escanear el código QR que representa la clave privada con una aplicación de escáner QR y luego pegar la información de la clave privada en la vista *Barrido* de la aplicación web.
 
-- [Electron Cash](https://electroncash.org/) is a desktop app that is also capable of sweeping funds from a private key.
+- [Electron Cash](https://electroncash.org/) es una aplicación de escritorio que también es capaz de extraer fondos de una clave privada.
 
 ## Bitcoin (BTC)
 
@@ -23,4 +23,4 @@ You can use these wallets to sweep BCH from a paper wallet:
 
 ## Ethereum (ETH)
 
-- [Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) is a web browser extension. You can use Metamask to import the private key to the wallet.
+- [Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) es una extensión del navegador web. Puedes usar Metamask para importar la clave privada a la billetera.

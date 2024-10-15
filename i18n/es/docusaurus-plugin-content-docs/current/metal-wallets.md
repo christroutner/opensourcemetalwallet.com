@@ -2,37 +2,37 @@
 sidebar_position: 5
 ---
 
-# Metal Wallets
+# Carteras de metal
 
-A range of desktop laser engravers are widely available. The metal wallet pictured below was produced with a [Sculpfun S30 Pro](https://amzn.to/3BvKes0) with a 20 watt laser, using these [stainless steel business cards](https://amzn.to/3BmLu0I). The card is powder coated with black pain, and the laser is used to blast the paint off the card, to expose the underlying stainless steel.
+Existe una amplia gama de grabadores láser de escritorio disponibles. La billetera de metal que se muestra a continuación se fabricó con un [Sculpfun S30 Pro](https://amzn.to/3BvKes0)con un láser de 20 vatios, utilizando estas [tarjetas de presentación de acero inoxidable](https://amzn.to/3BmLu0I). La tarjeta está recubierta de pintura en polvo negra y se utiliza un láser para quitar la pintura de la tarjeta y exponer el acero inoxidable subyacente.
 
 ![Metal Wallet](./static/img/metal-wallet.jpeg)
 
 ## Lightburn
 
-[Lightburn](https://lightburnsoftware.com/) is the most common software used to control these desktop laser engravers. [This stencil file](./static/3x15-frame.lbrn2) can be downloaded and used to create a frame for holding the business cards, to generate up to 15 metal wallets at a time.
+[Lightburn](https://lightburnsoftware.com/) Es el software más común utilizado para controlar estos grabadores láser de escritorio. [Este archivo de plantilla](./static/3x15-frame.lbrn2) Se puede descargar y utilizar para crear un marco para guardar tarjetas de presentación y generar hasta 15 billeteras de metal a la vez.
 
 ![Frame](./static/img/metal-wallet-frame.jpg)
 
-Wooden frame used to hold up to 15 metal wallets for laser engraving.
+Marco de madera utilizado para albergar hasta 15 carteras metálicas para grabado láser.
 
 ![Screenshot](./static/img/lightburn-screenshot.png)
 
-Screenshot of Lightburn with a batch of metal wallets overlaid on the frame file.
+Captura de pantalla de Lightburn con un lote de billeteras de metal superpuestas en el archivo del marco.
 
 ## Artwork
 
-The artwork for generating these metal wallets [is available on GitHub](https://github.com/christroutner/plastic-wallet). The steps are the same as in [the plastic wallet video](https://youtu.be/3qn0mmfwlBQ), but the following command is used:
+El diseño para generar estas billeteras de metal [está disponible en GitHub](https://github.com/christroutner/plastic-wallet). Los pasos son los mismos que en [el video de la billetera de plástico](https://youtu.be/3qn0mmfwlBQ), pero se utiliza el siguiente comando:
 
 - `npm run bch:bulk`
 
 ## Links
 
 - [Lightburn](https://lightburnsoftware.com/)
-- [Frame file](./static/3x15-frame.lbrn2)
+- [Archivo de marco](./static/3x15-frame.lbrn2)
 - [Sculpfun S30 Pro](https://amzn.to/3BvKes0)
-- [Stainless Steel business cards](https://amzn.to/3BmLu0I)
-- [Artwork generation software](https://github.com/christroutner/plastic-wallet)
+- [Tarjetas de presentación de acero inoxidable](https://amzn.to/3BmLu0I)
+- [Software de generación de ilustraciones](https://github.com/christroutner/plastic-wallet)
 
 ## More Pictures
 
