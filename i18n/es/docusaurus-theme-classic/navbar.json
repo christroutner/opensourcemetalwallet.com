@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "OpenSourceMetalWallet.com",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "OpenSourceMetalWallet.com",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Learn More!": {
+    "message": "Learn More!",
+    "description": "Navbar item with label Learn More!"
+  }
+}

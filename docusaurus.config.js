@@ -159,7 +159,7 @@ const config = {
         },
         // You can omit a locale (e.g. fr) if you don't need to override the defaults
         es: {
-          direction: 'rtl',
+          direction: 'ltr',
         },
       },
     },
