@@ -305,5 +305,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "Etiquetas",
     "description": "The title of the tag list page"
+  },
+  "Paper Wallets & Laser Engraved Metal Wallets": {
+    "message": "Carteras de papel y carteras de metal grabadas con láser"
+  },
+  "Generate a Paper Wallet": {
+    "message": "Generar una billetera de papel"
+  },
+  "Plastic Wallets": {
+    "message": "Carteras de plástico"
+  },
+  "This video was the inspiration for this site. It describes how inexpensive laser engravers can be used to make durable 'paper wallets' for families, friends, and the crypto-curious.": {
+    "message": "Este video fue la inspiración para este sitio. Describe cómo se pueden usar grabadores láser económicos para hacer 'carteras de papel' duraderas para familiares, amigos y personas con curiosidad por las criptomonedas."
+  },
+  "Learn More!": {
+    "message": "¡Aprenda más!"
+  },
+  "Learn about paper wallets, the shortcomings and advantages, and how to make your own with a desktop printer or a laser engraver.": {
+    "message": "Aprenda sobre las billeteras de papel, sus desventajas y ventajas, y cómo hacer la suya propia con una impresora de escritorio o un grabador láser."
+  },
+  "Buy Metal Wallets": {
+    "message": "Comprar Carteras Metálicas"
+  },
+  "Order your own 'paper wallets' engraved onto stainless steel business cards.": {
+    "message": "Solicite sus propias 'carteras de papel' grabadas en tarjetas de visita de acero inoxidable."
   }
 }

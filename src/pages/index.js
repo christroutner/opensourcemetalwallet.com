@@ -18,13 +18,19 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          <Translate>
+            Paper Wallets & Laser Engraved Metal Wallets
+          </Translate>
+        </p>
         <img src="./img/metal-wallet.jpeg" style={{width: '400px'}} />
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="https://paperwallet.fullstack.cash/">
-            Generate a Paper Wallet
+            <Translate>
+              Generate a Paper Wallet
+            </Translate>
           </Link>
         </div>
       </div>
@@ -52,11 +58,17 @@ export default function Home() {
                   </Link>
                 </div>
                 <div className="text--center padding-horiz--md">
-                  <Heading as="h3">{'Plastic Wallets'}</Heading>
+                  <Heading as="h3">
+                    <Translate>
+                      Plastic Wallets
+                    </Translate>
+                  </Heading>
                   <p>
-                    This video was the inspiration for this site. It describes how inexpensive
-                    laser engravers can be used to make durable 'paper wallets' for families,
-                    friends, and the crypto-curious.
+                    <Translate>
+                      This video was the inspiration for this site. It describes how inexpensive
+                      laser engravers can be used to make durable 'paper wallets' for families,
+                      friends, and the crypto-curious.
+                    </Translate>
                   </p>
                 </div>
               </div>
@@ -68,10 +80,16 @@ export default function Home() {
                   </Link>
                 </div>
                 <div className="text--center padding-horiz--md">
-                  <Heading as="h3">{'Learn More!'}</Heading>
+                  <Heading as="h3">
+                    <Translate>
+                      Learn More!
+                    </Translate>
+                  </Heading>
                   <p>
-                    Learn about paper wallets, the shortcomings and advantages, and how to
-                    make your own with a desktop printer or a laser engraver.
+                    <Translate>
+                      Learn about paper wallets, the shortcomings and advantages, and how to
+                      make your own with a desktop printer or a laser engraver.
+                    </Translate>
                   </p>
                 </div>
               </div>
@@ -83,9 +101,15 @@ export default function Home() {
                   </Link>
                 </div>
                 <div className="text--center padding-horiz--md">
-                  <Heading as="h3">{'Buy Metal Wallets'}</Heading>
+                  <Heading as="h3">
+                    <Translate>
+                      Buy Metal Wallets
+                    </Translate>
+                  </Heading>
                   <p>
-                    Order your own 'paper wallets' engraved onto stainless steel business cards.
+                    <Translate>
+                      Order your own 'paper wallets' engraved onto stainless steel business cards.
+                    </Translate>
                   </p>
                 </div>
               </div>
