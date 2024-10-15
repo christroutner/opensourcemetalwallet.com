@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'OpenSourceMetalWallet.com',
   tagline: 'Paper Wallets & Laser Engraved Metal Wallets',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/psf-logo.png',
 
   // Set the production url of your site here
   url: 'https://opensourcemetalwallet.com',
@@ -86,6 +86,10 @@ const config = {
             position: 'left',
             label: 'Learn More!',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          }
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
@@ -144,6 +148,22 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+
+    i18n: {
+      defaultLocale: 'en',
+      locales: ['en', 'es'],
+      localeConfigs: {
+        en: {
+          htmlLang: 'en-GB',
+        },
+        // You can omit a locale (e.g. fr) if you don't need to override the defaults
+        es: {
+          direction: 'rtl',
+        },
+      },
+    },
+
 };
 
 export default config;

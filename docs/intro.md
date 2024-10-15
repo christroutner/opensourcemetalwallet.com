@@ -23,13 +23,3 @@ A 'paper wallet' is a catch-all term for any physical object with a key pair (pr
 Want to know more? Check out this video:
 
 <iframe width="500" height="282" src="https://www.youtube.com/embed/OuFFLmOC7F0?start=370" title="Mastering Bitcoin Cash - Part 2 - Keys, Addresses, and Wallets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Recovering Cryptocurrency from a Paper Wallet
-
-The act of moving cryptocurrency from a paper wallet is called 'sweeping'. You'll need to use a wallet that is specific to the cryptocurrency you are using:
-
-- For Bitcoin Cash (BCH), you can use [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash) or [Electron Cash](https://electroncash.org/). [This video](https://youtu.be/QW9xixHaEJE) shows how to use [wallet.fullstack.cash](https://bchn-wallet.fullstack.cash).
-
-- For Bitcoin (BTC), you can use [Edge Wallet](https://edge.app/).
-
-- For Ethereum (ETH), you can use [Metamask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to import the private key to the wallet.
